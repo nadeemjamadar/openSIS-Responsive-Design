@@ -98,3 +98,7 @@ echo "</TR></TABLE></TD></TR></TABLE>";
 echo '</BODY></HTML>';
 
 ?>
+
+<?Php
+blue 
+	?>
